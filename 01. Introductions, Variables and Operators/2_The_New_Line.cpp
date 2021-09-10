@@ -4,7 +4,7 @@ void printInNewLine()
 {
     cout<<"Geeks"<<endl;
     cout<<"for"<<endl;
-    cout<<"Geeks";
+    cout<<"Geeks ";
 }
 int main()
 {
